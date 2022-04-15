@@ -10,8 +10,8 @@ namespace INSS.Interfaces
     public interface IFaixa
     {
         /// <summary>
-		/// Preenche os valores das faixas
-		/// </summary>
+	/// Preenche os valores das faixas
+	/// </summary>
         Faixa PreencherFaixas();
     }
 }
